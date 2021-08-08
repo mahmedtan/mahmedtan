@@ -77,7 +77,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#mahmedtan" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="48" height="48" alt="Express" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="48" height="48" alt="Express" style="object-fit:contain;" />
       </a>
       <br>Express
     </td>
