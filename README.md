@@ -19,7 +19,7 @@
 - :office: &nbsp;I'm currently working at **[Robor]**
 - :seedling: &nbsp;I’m currently learning **GraphQL**
 - :speech_balloon: &nbsp;I like to talk about **JAMStack** and **NextJS**
-- :mailbox: &nbsp;Contact me at my **mahmedexec@gmail.com**
+- :mailbox: &nbsp;Contact me at **mahmedexec@gmail.com**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
