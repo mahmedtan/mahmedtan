@@ -19,7 +19,7 @@
 - :office: &nbsp;I'm currently working at **[Robor]**
 - :seedling: &nbsp;I’m currently learning **GraphQL**
 - :speech_balloon: &nbsp;I like to talk about **JAMStack** and **NextJS**
-- :mailbox: &nbsp;Contact me at my **[Email address]**
+- :mailbox: &nbsp;Contact me at my **mahmedexec@gmail.com**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
@@ -99,5 +99,4 @@
 </table>
 
 [robor]: https://github.com/robor-systems
-[email address]: mailto:mahmedexec@gmail.com "Email Address"
 [linkedin]: https://www.linkedin.com/in/mahmedtan "Ahmed LinkedIn"
