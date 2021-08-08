@@ -99,5 +99,5 @@
 </table>
 
 [robor]: https://github.com/robor-systems
-[email address]: mailto://mahmedexec@gmail.com "Email Address"
+[email address]: mailto:mahmedexec@gmail.com "Email Address"
 [linkedin]: https://www.linkedin.com/in/mahmedtan "Ahmed LinkedIn"
