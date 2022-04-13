@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hi there! I'm Ahmed</h1>
-<h3 align="left">I am a Fullstack developer currently working on client-side applications.</h3>
+<h3 align="left">I am a web engineer currently working on client-side applications.</h3>
 
 <p align="left">
   <a href="https://github.com/mahmedtan/mahmedtan">
