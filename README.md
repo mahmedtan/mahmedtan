@@ -17,8 +17,8 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **[Robor]**
-- :seedling: &nbsp;I’m currently learning **GraphQL**
-- :speech_balloon: &nbsp;I like to talk about **JAMStack** and **NextJS**
+- :seedling: &nbsp;I’m currently learning **Web Performance Patterns**
+- :speech_balloon: &nbsp;I like to talk about **Server Components** and **Rendering patterns**
 - :mailbox: &nbsp;Contact me at **mahmedexec@gmail.com**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
